@@ -1,0 +1,22 @@
+{
+  "name": "roofing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgl97/roofing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgl97/roofing/issues"
+  },
+  "homepage": "https://alexgl97.github.io/roofing",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
